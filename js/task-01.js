@@ -1,4 +1,3 @@
-// Расставь отсутствующие this в методах объекта account.
 'use strict'
 const account = {
   owner: 'Mango',

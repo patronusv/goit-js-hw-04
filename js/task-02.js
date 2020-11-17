@@ -1,4 +1,3 @@
-// Исправь ошибки которые будут в консоли, чтобы скрипт заработал.
 'use strict'
 const inventory = {
   items: ['Knife', 'Gas mask'],
